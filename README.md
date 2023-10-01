@@ -7,6 +7,7 @@ understanding the company's existing customer pool and identifying the market po
 
 esri location data: https://doc.arcgis.com/en/esri-demographics/latest/data-browser/data-browser.htm
 
-*** Special thanks Michael Monzillo for working with me and resolved the GIS problem which is finding 
-the middle point between a predetermined set of zip codes of interest, and determining a marketing radius 
-which will include all of those zipcodes using US Census Bureau geographic data and geospatial operations.
+*** Special thanks to Michael Monzillo for walking me through the GIS problem (see target location 
+distribution map and further study) using sf and tigris libraries to find the center point between 
+a predetermined set of zip codes of interest, and determining a marketing radius which will include 
+all of those zipcodes using US Census Bureau geographic data and geospatial operations.
